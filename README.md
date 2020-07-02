@@ -1,0 +1,1 @@
+Day 1 -> 2nd of July -> Making a html and css page
